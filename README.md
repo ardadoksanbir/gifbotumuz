@@ -1,2 +1,2 @@
-# gifbotumuz
-lewisin 
+# gif-bot
+Önemli mi
